@@ -8,6 +8,13 @@ A simple Android application for counting money. It allows users to increment a 
 *   Adjust the increment value using a slider.
 *   Displays the total amount of money.
 
+## Screenshots (Ekran Görüntüleri)
+
+<div align="center">
+  <img src="images/photo1.jpg" width="300">
+  <img src="images/photo2.jpg" width="300">
+</div>
+
 ## How to Build and Run
 
 1.  Clone the repository or download the source code.
